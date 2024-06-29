@@ -1,2 +1,2 @@
 # Rise-of-kingdoms-power-counter
-Power counter for the top 100 players in a certain kingdom
+Contador do poder dos top 100 jogadores de um certo reino
